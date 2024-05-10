@@ -13,4 +13,4 @@ def analyze_words(words):
 
 # Example usage
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
-analyze_words(word_list
+analyze_words(word_list)
