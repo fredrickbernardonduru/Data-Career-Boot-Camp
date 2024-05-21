@@ -1,4 +1,4 @@
-def analyze_words(words):
+wedef analyze_words(words):
     print("Total number of words:", len(words))
 
     longest_word = max(words, key=len)
@@ -16,6 +16,8 @@ word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 analyze_words(word_list)
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 analyze_words(word_list)
+
+
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 analyze_words(word_list)
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
