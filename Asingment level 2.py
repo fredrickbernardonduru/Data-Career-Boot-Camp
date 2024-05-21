@@ -20,3 +20,4 @@ word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 analyze_words(word_list)
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 
+analyze_words(word_list)
