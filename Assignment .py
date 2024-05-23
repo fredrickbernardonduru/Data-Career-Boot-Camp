@@ -8,3 +8,4 @@ def analyze_numbers(manamba,sum):
     elif sum < 50:
         print("Below avarage")
 
+analyze_numbers(None,None)
