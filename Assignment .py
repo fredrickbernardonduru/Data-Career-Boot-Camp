@@ -7,4 +7,5 @@ def analyze_numbers(manamba,sum):
         print("Average")
     elif sum < 50:
         print("Below avarage")
+        
         analyze_numbers(None,None)
