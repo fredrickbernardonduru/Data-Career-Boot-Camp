@@ -9,4 +9,5 @@ def analyze_numbers(manamba,sum):
         print("Below avarage")
 
      
+   
     analyze_numbers(None,None)
