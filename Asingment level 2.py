@@ -9,8 +9,7 @@ wedef analyze_words(words):
     if palindromes:
         print("Palindromes found:", palindromes)
     else:
-        print("No Palindromes found")
-        
+        print("No Palindromes found") 
 
 # Example usage
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
