@@ -11,7 +11,7 @@ wedef analyze_words(words):
     else:
         print("No Palindromes found") 
 
-# Example usage
+#Example usage
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
 analyze_words(word_list)
 word_list = ['python', 'level', 'programming', 'radar', 'algorithm']
