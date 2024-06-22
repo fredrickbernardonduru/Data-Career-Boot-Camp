@@ -1,5 +1,3 @@
-
-
 wedef analyze_words(words):
     print("Total number of words:", len(words))
    longes
