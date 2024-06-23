@@ -1,5 +1,4 @@
-wedef analyze_words(words):
-  
+wedef analyze_words(word)  
 print("Total number of words:", len(words))
    longes
 t_word = max(words, key=len)
