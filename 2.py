@@ -4,6 +4,7 @@ dates = pd.date_range(start='2023-01-01', end='2023-12-31')
 cumulative_returns_etf = pd.Series(index=dates)  # Initialize empty Series with dates as index
 cumulative_returns_index = pd.Series(index=dates)  # Initialize empty Series with dates as index
 
+cumulative_returns_index = pd.Series(index=dates)  # Initialize empty Series with dates as index
 
 cumulative_returns_etf[dates[0]] = 0.0  # Initial value
 cumulative_returns_index[dates[0]] = 0.0  # Initial value
