@@ -11,4 +11,4 @@ def analyze_numbers(manamba,sum):
         
         analyze_numbers(None,None)analyze_numbers
         analyze_numbers(None,None)
-        analyze_numbers(None,None)
+
