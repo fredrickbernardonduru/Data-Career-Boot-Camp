@@ -1,5 +1,5 @@
 wedef analyze_words(word)  
-#print("Total number of words:", len(words))
+print("Total number of words:", len(words))
 longest_word = max(words, key=len)
     print("Longest word:", longest_word)
 
