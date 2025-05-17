@@ -6,7 +6,7 @@ cumulative_returns_index = pd.Series(index=dates)  # Initialize empty Series wit
 cumulative_returns_index = pd.Series(index=dates)  # Initialize empty Series with dates as index
 
 cumulative_returns_index = pd.Series(index=dates)  # Initialize empty Series with dates as index
-#
+
 cumulative_returns_etf[dates[0]] = 0.0  # Initial value
 cumulative_returns_index[dates[0]] = 0.0  # Initial value
 
