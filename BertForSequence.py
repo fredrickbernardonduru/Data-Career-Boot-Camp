@@ -2,7 +2,7 @@ from transformers import BertForSequenceClassification, BertTokenizer
 
 # Load BERT model and tokenizer
 model_name = 'bert-base-uncased'
-tokenizer = BertTokenizer.from_pretrained(model_name)
+#tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertForSequenceClassification.from_pretrained(model_name, num_labels=3)  # 3 labels for NLI task
 import torch
 from datasets import load_dataset
