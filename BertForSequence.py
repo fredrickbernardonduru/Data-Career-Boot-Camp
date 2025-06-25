@@ -1,4 +1,4 @@
-#from transformers import BertForSequenceClassification, BertTokenizer
+from transformers import BertForSequenceClassification, BertTokenizer
 
 # Load BERT model and tokenizer
 model_name = 'bert-base-uncased'
