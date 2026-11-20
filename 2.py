@@ -1,4 +1,4 @@
-import pandas as pdvhufcdxx
+import pandas as pdvhuf
 import matplotlib.pyplot as plt
 dates = pd.date_range(start='2023-01-01', end='2023-12-31')
 cumulative_returns_etf = pd.Series(index=dates)  # Initialize empty Series with dates as index
