@@ -1,4 +1,4 @@
-bbbbdd jsksis ksisks 
+bbbbdd jsksis ksi 
 wedef analyze_words(word)  
 print("Total number of words:", len(words))
 longest_word = max(words, key=len)
